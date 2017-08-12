@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\selected.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\selected.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\apple.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\apple.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\add.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\unchecked_white.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\pear.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\pear.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\checked_white.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked_white.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\icon.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\delete.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\checked.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\unchecked.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\menu.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\recent.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\recent.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\logo_login.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_login.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\banana.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\banana.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\nonselected.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\nonselected.png"
+    },
+    {
+        "merged": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\release\\drawable-xxxhdpi\\logo_signup.png",
+        "source": "E:\\Disco F\\Nativescriot\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_signup.png"
+    }
+]

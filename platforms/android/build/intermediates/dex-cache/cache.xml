@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-media-compat-25.3.1_874a978f19cbb92bdcbc9e1c0f8b00667854ba05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-core-ui-25.3.1_2dd2ca10c97271ce9ec2e103a1f33adb3e19bc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-core-utils-25.3.1_7c6f090c5efbf7df01f72dbe52c2dd5dd9e02ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\support-annotations-25.3.1_9d6281e09ef1b997b9a95d58b58370165ca0d8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-compat-25.3.1_d69385aa44609dc0bda0d97c2673f83ad6e6f429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\binding-generator_025c6c9d6058a19c5a71130c618600fdd1cb4b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-v4-25.3.1_51d7885064d6cbd84cea7008a60f6de5b1632ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-fragment-25.3.1_fb89cf1403657e5ce4f036d1de8ed0258e820eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-animated-vector-drawable-25.3.1_fc760a2dd523e979e0639704a4864cfed1c90ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-support-vector-drawable-25.3.1_206b36b906f9c481ca670474d3eb87553d5b6b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\intermediates-exploded-aar-widgets-release_43936a388cf3d47f3415afd3d64e764d286d00c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\Groceries-runtime-unspecified_a6e2a667a84fa749b8fd87c07eaebd593565bad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Disco F\Nativescriot\Groceries\platforms\android\build\intermediates\pre-dexed\F0F1\release\com.android.support-appcompat-v7-25.3.1_459912635f06a41e5335eb3c8034da8545ce5209.jar" />
+    </item>
+
+</items>

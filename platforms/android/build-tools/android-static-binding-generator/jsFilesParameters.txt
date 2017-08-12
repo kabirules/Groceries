@@ -1,0 +1,15 @@
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\app.component.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\app.module.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\app.routing.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\main.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\tns-java-classes.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\_embedded_script_.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\pages\list\list.component.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\pages\login\login.component.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\shared\config.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\shared\grocery\grocery-list.service.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\shared\grocery\grocery.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\shared\user\user.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\shared\user\user.service.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\utils\hint-util.js
+E:\Disco F\Nativescriot\Groceries\platforms\android\src\main\assets\app\utils\status-bar-util.js
