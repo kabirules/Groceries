@@ -1,9 +1,9 @@
 {
-	"time": "Sat Aug 12 2017 23:59:19 GMT+0200 (Hora de verano romance)",
+	"time": "Mon Aug 14 2017 00:43:53 GMT+0200 (Hora de verano romance)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
-	"release": true,
-	"changesRequireBuild": true,
-	"projectFileHash": "631f13d04563f134c62b0a1514da1b1a81039160bb3369c2258d156a23aa89f2",
-	"changesRequireBuildTime": "Sat Aug 12 2017 23:59:19 GMT+0200 (Hora de verano romance)"
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "7a14a9d451aefb31bab1663f5af7c68b54603636f7d001bd3f428a14094d3d9c",
+	"changesRequireBuildTime": "Mon Aug 14 2017 00:38:51 GMT+0200 (Hora de verano romance)"
 }
